@@ -18,8 +18,11 @@
 <div> 
   <a href="mailto:kevinfabel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kevin-fabel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://kevin-fabel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139></a>
- 
-  ![Snake animation](https://github.com/fuaberu/fuaberu/blob/output/github-contribution-grid-snake.gif)
- 
+  <a href="https://kevin-fabel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> 
+</div>
+  
+<div align="center">
+  
+![Snake animation](https://github.com/fuaberu/fuaberu/blob/output/github-contribution-grid-snake.gif)
+  
 </div>
