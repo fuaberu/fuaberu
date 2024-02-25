@@ -28,7 +28,7 @@ I have 2 years of working experience, as a web developer. But have been having f
 	👨‍💻 All my projects are available at my <a href="https://kevin-fabel-port.netlify.app/" target="_blank">Portfolio</a> 
 </div>
 <div> 
-🌱 I’m currently learning: NextJs and svelteKit
+🌱 I’m currently learning: NextJs and Svelte
 </div>
 
  ## Contact me!
